@@ -1,0 +1,213 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+#nev{
+    background-color: #2C3E50 ;
+}
+
+.nabbar{
+    margin-left: 500px;
+}
+
+.link a{
+    color:white;
+    font-size: 18px;
+    font-weight: 600;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*------banner-----*/
+
+#banner{
+    background-color: #99A3A4;
+    color:white;
+    height: 550px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+
+#banner img{
+    margin-top: 80px;
+}
+
+#banner h2{
+    margin-top: 170px;
+}
+
+/*-----abouts-----*/
+
+#about{
+    height:500px;
+}
+
+.service{
+    margin-bottom: 60px;
+}
+
+.abouts{
+    text-align: center;
+    margin-top: 50px; 
+    margin-bottom: 25px;
+    border-bottom: 2px solid #D4E6F1 ;
+}
+
+.aboutImg img{
+    width:500px;
+    height:300px;
+    margin-top: 70px;
+}
+
+.know{
+    background-color: #17202A !important;
+    color: white;
+    padding-left:  40px !important;
+    padding-right: 40px !important;
+    margin-bottom: 50px;
+}
+
+.wanna{
+    margin-top: 60px;
+    border-bottom: 2px solid #D4E6F1 ;
+}
+
+.cardbutton{
+    background-color: black !important;
+    color:white;
+    border: 1px solid black !important;
+}
+
+/*------service---*/
+
+.cardImg{
+    width:100%;
+    height: 200px;
+}
+
+.service{
+    margin-top: 50px;
+}
+
+/*------contact---*/
+
+.contactbutton{
+    background-color: black !important;
+    color:white;
+    border: 1px solid black !important;
+}
+
+#contact{
+    background-color: ;
+    padding: 50px 0px;
+    color: black;
+}
+
+/*------fonts---*/
+
+#fonts{
+    height:50px;
+    color:black;
+}
+
+.awesome{
+    border-bottom: 2px solid grey;
+}
+
+.para{
+    color: black;
+    padding-top: 10px;
+    border-bottom: 2px solid grey;
+}
+
+.font{
+    margin: 20px 10px;
+    color:	#4267B2;
+}
+
+.face{
+    margin-left: 250px;
+}
+
+/*---------footer-----*/
+
+#footer{
+    margin-top: 70px;
+}
+
+#footer li{
+    list-style: none;
+}
+
+.company i{
+   padding:0px 10px 0px 0px;
+}
+
+.company span{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.company p{
+    text-align: justify;
+    color: black;
+    margin-top: 30px;
+}
+
+.products span{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 30px;
+    color:black;
+}
+
+.prodcts li{
+    color:black;
+}
+
+.productlist{
+    margin-top: 30px;
+}
+
+.link span{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 30px;
+    color:black;
+}
+
+.link li{
+    color:black;
+}
+
+.linklist{
+    margin-top: 30px;
+}
+
+.contact span{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 30px;
+    color:black;
+}
+
+.contact li{
+    color:black;
+}
+
+.contactlist{
+    margin-top: 30px;
+}
+
+#bottomfooter{
+    background-color:#2C3E50 ;
+}
+
+#bottomfooter p{
+    text-align: center;
+    color: white;
+}
+
